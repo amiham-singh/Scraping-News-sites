@@ -1,0 +1,6 @@
+I needed to get the URLs of articles written on Trump, a month before and after his Inauguration. that is what this code does.
+Scraping CNN's sitemap using Beautiful soup, I was able to find all the URLs that began with "http://www.cnn.com/politics" then I used a regex match to find the word "trump" in the link. 
+
+After studying the links on CNN I know that they put the date in their URLs (It is important to study the structure of a site's URL to understand how you will be searching them). 
+
+I wrote two functions to find the articles one month before and one month after becase I wanted them in separate files. ( Looking back I realize that could have done that separation later) 

@@ -1,2 +1,5 @@
 # Scraping-CNN-
-Python script to scrape CNN for articles on  particular topic over a particular time frame
+Python scripts to scrape CNN Fox and Slate for articles on a particular topic over a particular timeframe
+
+ In this case: Topic Trump
+ Time frame : One month before and after his inuaguration. 
